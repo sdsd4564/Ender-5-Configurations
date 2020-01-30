@@ -13,3 +13,8 @@ Hardware Specifications
 * BLTouch v3.0(with PIN 27 board)
 * Dual Z Axis(with stepper motor parallel module, https://www.thingiverse.com/thing:3784970)
 * Hero Me Gen 3 with dual 5015 blower fans(https://www.thingiverse.com/thing:3182917)
+
+Slicer
+----------
+
+*Simplify3D v4.1.2*
