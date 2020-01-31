@@ -18,3 +18,10 @@ Slicer
 ----------
 
 *Simplify3D v4.1.2*
+
+Updated
+---------
+
+    2020-01-30 
+        - Change direct drive to bowden. because printed motor mount parts are melted...
+        - Update S3D profile(direct -> bowden).
