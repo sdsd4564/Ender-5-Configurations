@@ -18,6 +18,7 @@ Slicer
 ----------
 
 *Simplify3D v4.1.2*
+*PrusaSlicer v2.1.1*
 
 Updated
 ---------
