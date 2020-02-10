@@ -25,3 +25,7 @@ Updated
     2020-01-30 
         - Change direct drive to bowden. because printed motor mount parts are melted...
         - Update S3D profile(direct -> bowden).
+    2020-02-10
+        - Add PrusaSlicer profile.
+        - Add Smart-Plug and OctoPrint for remote control(No Raspberry-Pi, using OMV-NAS)
+            * Smart-Plug: http://bitly.kr/DSLtJszO
