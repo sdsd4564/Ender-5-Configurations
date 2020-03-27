@@ -18,8 +18,8 @@ Slicer
 ----------
 
 *Simplify3D v4.1.2*  
-*PrusaSlicer v2.1.1* 
-*Cura v4.5.0* 
+*PrusaSlicer v2.1.1*  
+*Cura v4.5.0*  
 
 Updated
 ---------
